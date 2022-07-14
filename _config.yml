@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Zhongkai YI"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Zhongkai YI 仪忠凯"
+  avatar           : "profile20210527.jpg"
+  bio              : "Algorithm expert at Alibaba"
   location         : "Location"
-  employer         :
+  employer         : "Decision intelligence lab, Alibaba DAMO Academy"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=NsTuK-0AAAAJ&hl=zh-CN"
+  email            : "yzk_article@163.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Zhongkai-Yi"
   uri              :
   bitbucket        :
   codepen          :
