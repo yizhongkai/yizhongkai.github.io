@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhongkai YI.
+Zhongkai YI, Algorithm expert of Alibaba DAMO Academy.
 
 个人简介
 ======
