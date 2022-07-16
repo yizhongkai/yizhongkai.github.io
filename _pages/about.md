@@ -10,8 +10,10 @@ redirect_from:
 
 Zhongkai YI, Algorithm expert of Decision Intelligence Lab, Machine Intelligence Research Sector, Alibaba DAMO Academy.
 
-He received the B.S. and M.S. degrees in electrical engineering from the Harbin Institute of Technology in 2016/07 and 2018/07, respectively, and the Ph.D. degree in electrical engineering from Tsinghua University in Dec. 2021.
+He received the B.S. and M.S. degrees in electrical engineering from the Harbin Institute of Technology in July 2016 and July 2018, respectively, and the Ph.D. degree in electrical engineering from Tsinghua University in Dec 2021.
 He is currently an Algorithm Expert with the Decision Intelligence Lab, 1221Machine Intelligence Research Sector, Alibaba DAMO Academy. His research 1222interests include the optimization and machine learning in power systems. He 1223was a recipient of the Advanced Technology Talent Program “AliStar” of 1224Alibaba.
+
+
 个人简介
 ======
 仪忠凯，阿里巴巴达摩院-决策智能实验室-运筹优化算法专家，于哈尔滨工业大学电气工程专业获得工学学士学位（2016年7月）和工学硕士学位（2018年7月），于清华大学电气工程专业获得工学博士学位（2021年12月），曾获清华大学优秀博士毕业生，入选阿里巴巴顶尖技术人才培养项目。
