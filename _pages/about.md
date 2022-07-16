@@ -10,9 +10,10 @@ redirect_from:
 
 Zhongkai YI.
 
-个人简历
+个人简介
 ======
-仪忠凯Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+仪忠凯，阿里巴巴达摩院运筹优化算法专家，于哈尔滨工业大学电气工程专业获得工学学士学位（2016年7月）和工学硕士学位（2018年7月），于清华大学电气工程专业获得工学博士学位（2021年12月），曾获清华大学优秀博士毕业生，入选阿里巴巴顶尖技术人才培养项目。
+研究方向为优化理论/强化学习及其在电力系统调度运行中的应用，发表论文30余篇（其中IEEE Trans. 系列论文10余篇），发明专利10余项，在elsevier上出版学术专著1部，主持XXXXXXXXX1项，作为骨干参与国家重点研发计划子课题2项，国家科技支撑计划1项，自然科学基金2项目，其他国网/南网/阿里集团/省部级科技项目7项。担任IEEE APPEEC国际会议电力系统分析分会主席，担任IEEE Trans. Smart Grid/Power Systems等10余个行业顶刊评审人，在IEEE PES Panel Session发布特邀报告。研究成果获清华大学优秀博士学位论文，《电网技术》和《电力建设》年度最佳论文，ICPRE国际会议最佳论文，核心研究成果支撑开展我国首个电力市场环境下的虚拟电厂实际示范工程并荣获中国电工技术学会xxx等奖。
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
