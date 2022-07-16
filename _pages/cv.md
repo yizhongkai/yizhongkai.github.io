@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Harbin Institute of Technology, 2012.8-2016.6
+* M.S. in Electrical Engineering, Harbin Institute of Technology, 2016.8-2018.6
+* Ph.D in Electrical Engineering, Tsinghua University, 2018.8-2021.12
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2022: Algorithm expert in Operations research & optimization
+  * Decision intelligence lab
+  * Alibaba DAMO Academy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
